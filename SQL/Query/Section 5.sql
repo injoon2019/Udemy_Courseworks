@@ -13,5 +13,13 @@ CREATE TABLE customers
     last_name VARCHAR(255),
 	email_address VARCHAR(255),
     number_of_complaints INT
-)
+);
     
+USE Sales;
+SELECT *
+FROM sales;
+
+SELECT *
+FROM sales.sales;
+
+DROP TABLE sales;

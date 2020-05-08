@@ -33,3 +33,4 @@ WHERE
 	dept_no = 'd010';
 
 #143. DROP vs TRUNCATE vs DELETE
+ 
